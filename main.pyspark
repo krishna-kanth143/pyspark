@@ -1,7 +1,5 @@
 
-S.Dinesh Prasath
-10:28 AM (0 minutes ago)
-to me
+
 
 import pandas as pd
 pd.read_parquet('/content/house-price.parquet')
